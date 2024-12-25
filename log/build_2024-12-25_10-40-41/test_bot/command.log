@@ -1,0 +1,6 @@
+Invoking command in '/home/nr/ros2_ws/src/test_bot/build/test_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nr/ros2_ws/src/test_bot -DCMAKE_INSTALL_PREFIX=/home/nr/ros2_ws/src/test_bot/install/test_bot
+Invoked command in '/home/nr/ros2_ws/src/test_bot/build/test_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nr/ros2_ws/src/test_bot -DCMAKE_INSTALL_PREFIX=/home/nr/ros2_ws/src/test_bot/install/test_bot
+Invoking command in '/home/nr/ros2_ws/src/test_bot/build/test_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nr/ros2_ws/src/test_bot/build/test_bot -- -j16 -l16
+Invoked command in '/home/nr/ros2_ws/src/test_bot/build/test_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nr/ros2_ws/src/test_bot/build/test_bot -- -j16 -l16
+Invoking command in '/home/nr/ros2_ws/src/test_bot/build/test_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nr/ros2_ws/src/test_bot/build/test_bot
+Invoked command in '/home/nr/ros2_ws/src/test_bot/build/test_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nr/ros2_ws/src/test_bot/build/test_bot
